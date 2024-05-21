@@ -7,7 +7,7 @@ namespace atividadejeferson2
         static void Main(string[] args)
         {
             string FG = "";
-            Cliente[] clientes = new Cliente[5];
+            Cliente[] clientes = new Cliente[10];
             for (int i = 0; i < clientes.Length; i++)
             {
                 clientes[i] = new Cliente();
